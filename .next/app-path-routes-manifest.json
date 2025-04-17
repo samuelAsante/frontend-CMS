@@ -1,10 +1,10 @@
 {
-  "/_not-found/page": "/_not-found",
   "/favicon.ico/route": "/favicon.ico",
-  "/page": "/",
+  "/_not-found/page": "/_not-found",
   "/login/page": "/login",
+  "/page": "/",
   "/register/page": "/register",
   "/dashboard/contacts/add/page": "/dashboard/contacts/add",
-  "/dashboard/contacts/edit/[id]/page": "/dashboard/contacts/edit/[id]",
-  "/dashboard/page": "/dashboard"
+  "/dashboard/page": "/dashboard",
+  "/dashboard/contacts/edit/[id]/page": "/dashboard/contacts/edit/[id]"
 }
